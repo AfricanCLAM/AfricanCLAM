@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rafi Salman</h1>
-<img src="[https://tenor.com/fNsqRmUyb2a.gif](https://tenor.com/view/lpbunnygt-littleprincess-lp-guardian-tales-gif-4728432126469369720)" />
-[https://tenor.com](https://tenor.com/view/lpbunnygt-littleprincess-lp-guardian-tales-gif-4728432126469369720)
+
+
 <h3 align="center">A student from Indonesia who loves web programming ;)</h3>
 
 - 📫 How to reach me **rafir0532@gmail.com**
