@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rafi Salman</h1>
+<img src="img/lp.gif" /> 
 <h3 align="center">A student from Indonesia who loves web programming ;)</h3>
 
 - 📫 How to reach me **rafir0532@gmail.com**
