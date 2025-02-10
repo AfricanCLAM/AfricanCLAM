@@ -14,7 +14,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-300%20hrs%2039%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profil%20dilihat-0-blue)
+![Profile Views](http://img.shields.io/badge/Profil%20dilihat-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/Sejak%20Hello%20World%20aku%20telah%20menulis-1.6%20million%20baris%20kode-blue)
 
@@ -57,13 +57,15 @@ Minggu                   72 commits          ███░░░░░░░░�
 🕑︎ Zona waktu: Asia/Jakarta
 
 💬 Bahasa: 
-Tidak ada aktivitas dilacak minggu Ini
+Blade Template           40 mins             ██████████████░░░░░░░░░░░   57.56 % 
+PHP                      28 mins             ██████████░░░░░░░░░░░░░░░   39.50 % 
+Todotxt                  2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
 
 🔥 Editor: 
-Tidak ada aktivitas dilacak minggu Ini
+VS Code                  1 hr 10 mins        █████████████████████████   100.00 % 
 
 💻 Sistem Operasi: 
-Tidak ada aktivitas dilacak minggu Ini
+Windows                  1 hr 10 mins        █████████████████████████   100.00 % 
 ```
 
 **Kebanyakan menulis dalam bahasa PHP** 
@@ -79,5 +81,5 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/02/2025 00:42:23 UTC
+ Last Updated on 10/02/2025 00:40:41 UTC
 <!--END_SECTION:waka-->
