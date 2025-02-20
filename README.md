@@ -12,7 +12,7 @@
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-334%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-337%20hrs%2020%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profil%20dilihat-1-blue)
 
@@ -20,7 +20,7 @@
 
 **🐱 Dataku di GitHub** 
 
-> 📦 99.6 kB Digunakan di GitHub Storage 
+> 📦 105.9 kB Digunakan di GitHub Storage 
  > 
 > 🏆 8 Kontribusi pada 2025
  > 
@@ -33,21 +33,21 @@
 **Aku orangnya diurnal 🐤** 
 
 ```text
-🌞 Pagi                   206 commits         █████████░░░░░░░░░░░░░░░░   36.85 % 
-🌆 Siang                  173 commits         ████████░░░░░░░░░░░░░░░░░   30.95 % 
-🌃 Petang                 170 commits         ████████░░░░░░░░░░░░░░░░░   30.41 % 
+🌞 Pagi                   206 commits         █████████░░░░░░░░░░░░░░░░   36.79 % 
+🌆 Siang                  173 commits         ████████░░░░░░░░░░░░░░░░░   30.89 % 
+🌃 Petang                 171 commits         ████████░░░░░░░░░░░░░░░░░   30.54 % 
 🌙 Malam                  10 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
 ```
 📅 **Paling produktif saat Senin** 
 
 ```text
-Senin                    104 commits         █████░░░░░░░░░░░░░░░░░░░░   18.60 % 
-Selasa                   100 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.89 % 
-Rabu                     49 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
-Kamis                    61 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
-Jumat                    83 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
-Sabtu                    86 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-Minggu                   76 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
+Senin                    104 commits         █████░░░░░░░░░░░░░░░░░░░░   18.57 % 
+Selasa                   100 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
+Rabu                     50 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
+Kamis                    61 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
+Jumat                    83 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.82 % 
+Sabtu                    86 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
+Minggu                   76 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
 ```
 
 
@@ -57,17 +57,17 @@ Minggu                   76 commits          ███░░░░░░░░�
 🕑︎ Zona waktu: Asia/Jakarta
 
 💬 Bahasa: 
-PHP                      16 hrs 36 mins      ██████████████░░░░░░░░░░░   57.32 % 
-HTML                     7 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   24.44 % 
-Text                     2 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
-JavaScript               1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
+PHP                      15 hrs 36 mins      █████████████░░░░░░░░░░░░   53.55 % 
+HTML                     7 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   24.35 % 
+JavaScript               2 hrs 48 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
+Text                     2 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
 Bash                     23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
 
 🔥 Editor: 
-VS Code                  28 hrs 59 mins      █████████████████████████   100.00 % 
+VS Code                  29 hrs 8 mins       █████████████████████████   100.00 % 
 
 💻 Sistem Operasi: 
-Windows                  28 hrs 59 mins      █████████████████████████   100.00 % 
+Windows                  29 hrs 8 mins       █████████████████████████   100.00 % 
 ```
 
 **Kebanyakan menulis dalam bahasa PHP** 
@@ -83,5 +83,5 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/02/2025 00:39:52 UTC
+ Last Updated on 20/02/2025 00:40:11 UTC
 <!--END_SECTION:waka-->
