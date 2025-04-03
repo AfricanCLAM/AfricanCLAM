@@ -22,6 +22,8 @@
 
 > 📦 106.1 kB Digunakan di GitHub Storage 
  > 
+> 🏆 8 Kontribusi pada 2025
+ > 
 > 🚫 Tidak sedang bisa dipekerjakan
  > 
 > 📜 15 Repositori publik 
@@ -55,13 +57,17 @@ Minggu                   77 commits          ███░░░░░░░░�
 🕑︎ Zona waktu: Asia/Jakarta
 
 💬 Bahasa: 
-Tidak ada aktivitas dilacak minggu Ini
+JavaScript               1 hr 39 mins        ██████████████████░░░░░░░   71.82 % 
+PHP                      34 mins             ██████░░░░░░░░░░░░░░░░░░░   25.36 % 
+Text                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editor: 
-Tidak ada aktivitas dilacak minggu Ini
+VS Code                  2 hrs 17 mins       █████████████████████████   100.00 % 
 
 💻 Sistem Operasi: 
-Tidak ada aktivitas dilacak minggu Ini
+Windows                  2 hrs 17 mins       █████████████████████████   100.00 % 
 ```
 
 **Kebanyakan menulis dalam bahasa PHP** 
@@ -77,5 +83,5 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/04/2025 00:43:33 UTC
+ Last Updated on 03/04/2025 00:42:39 UTC
 <!--END_SECTION:waka-->
