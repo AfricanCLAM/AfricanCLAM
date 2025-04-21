@@ -14,13 +14,15 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-378%20hrs%2045%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profil%20dilihat-4-blue)
+![Profile Views](http://img.shields.io/badge/Profil%20dilihat-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/Sejak%20Hello%20World%20aku%20telah%20menulis-1.8%20million%20baris%20kode-blue)
 
 **🐱 Dataku di GitHub** 
 
 > 📦 108.3 kB Digunakan di GitHub Storage 
+ > 
+> 🏆 8 Kontribusi pada 2025
  > 
 > 🚫 Tidak sedang bisa dipekerjakan
  > 
@@ -55,17 +57,13 @@ Minggu                   80 commits          ███░░░░░░░░�
 🕑︎ Zona waktu: Asia/Jakarta
 
 💬 Bahasa: 
-PHP                      1 hr 41 mins        ██████████████░░░░░░░░░░░   56.17 % 
-JavaScript               1 hr 14 mins        ██████████░░░░░░░░░░░░░░░   41.12 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
-Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+JSON                     2 mins              █████████████████████████   100.00 % 
 
 🔥 Editor: 
-VS Code                  3 hrs               █████████████████████████   100.00 % 
+VS Code                  2 mins              █████████████████████████   100.00 % 
 
 💻 Sistem Operasi: 
-Windows                  3 hrs               █████████████████████████   100.00 % 
+Windows                  2 mins              █████████████████████████   100.00 % 
 ```
 
 **Kebanyakan menulis dalam bahasa PHP** 
@@ -81,5 +79,5 @@ Blade                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/04/2025 00:47:46 UTC
+ Last Updated on 21/04/2025 00:46:31 UTC
 <!--END_SECTION:waka-->
