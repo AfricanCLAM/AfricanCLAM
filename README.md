@@ -57,13 +57,16 @@ Minggu                   80 commits          ███░░░░░░░░�
 🕑︎ Zona waktu: Asia/Jakarta
 
 💬 Bahasa: 
-Tidak ada aktivitas dilacak minggu Ini
+JavaScript               1 hr 18 mins        ████████████████████░░░░░   78.60 % 
+PHP                      18 mins             █████░░░░░░░░░░░░░░░░░░░░   18.71 % 
+Bash                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 
 🔥 Editor: 
-Tidak ada aktivitas dilacak minggu Ini
+VS Code                  1 hr 39 mins        █████████████████████████   100.00 % 
 
 💻 Sistem Operasi: 
-Tidak ada aktivitas dilacak minggu Ini
+Windows                  1 hr 39 mins        █████████████████████████   100.00 % 
 ```
 
 **Kebanyakan menulis dalam bahasa PHP** 
@@ -79,5 +82,5 @@ Blade                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/04/2025 00:44:24 UTC
+ Last Updated on 26/04/2025 00:42:52 UTC
 <!--END_SECTION:waka-->
