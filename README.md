@@ -22,8 +22,6 @@
 
 > 📦 131.2 kB Digunakan di GitHub Storage 
  > 
-> 🏆 12 Kontribusi pada 2025
- > 
 > 🚫 Tidak sedang bisa dipekerjakan
  > 
 > 📜 16 Repositori publik 
@@ -57,17 +55,13 @@ Minggu                   89 commits          ████░░░░░░░�
 🕑︎ Zona waktu: Asia/Jakarta
 
 💬 Bahasa: 
-JavaScript               2 hrs 39 mins       ████████████░░░░░░░░░░░░░   46.78 % 
-HTML                     2 hrs 15 mins       ██████████░░░░░░░░░░░░░░░   39.60 % 
-CSS                      31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
-Markdown                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
-Text                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
+Tidak ada aktivitas dilacak minggu Ini
 
 🔥 Editor: 
-VS Code                  5 hrs 41 mins       █████████████████████████   100.00 % 
+Tidak ada aktivitas dilacak minggu Ini
 
 💻 Sistem Operasi: 
-Windows                  5 hrs 41 mins       █████████████████████████   100.00 % 
+Tidak ada aktivitas dilacak minggu Ini
 ```
 
 **Kebanyakan menulis dalam bahasa PHP** 
@@ -83,5 +77,5 @@ Blade                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/05/2025 00:47:10 UTC
+ Last Updated on 21/05/2025 00:46:09 UTC
 <!--END_SECTION:waka-->
