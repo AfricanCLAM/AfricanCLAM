@@ -14,7 +14,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-410%20hrs%2044%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profil%20dilihat-2-blue)
+![Profile Views](http://img.shields.io/badge/Profil%20dilihat-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/Sejak%20Hello%20World%20aku%20telah%20menulis-1.8%20million%20baris%20kode-blue)
 
@@ -79,5 +79,5 @@ Blade                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/05/2025 00:52:10 UTC
+ Last Updated on 26/05/2025 00:47:42 UTC
 <!--END_SECTION:waka-->
