@@ -12,9 +12,9 @@
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-658%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-660%20hrs%2053%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profil%20dilihat-0-blue)
+![Profile Views](http://img.shields.io/badge/Profil%20dilihat-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/Sejak%20Hello%20World%20aku%20telah%20menulis-1.9%20million%20baris%20kode-blue)
 
@@ -57,18 +57,18 @@ Minggu                   127 commits         ████░░░░░░░�
 🕑︎ Zona waktu: Asia/Jakarta
 
 💬 Bahasa: 
-Java                     6 hrs 28 mins       ██████████████░░░░░░░░░░░   54.49 % 
-Blade Template           2 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.73 % 
-PHP                      1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
-HTML                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
-Todotxt                  31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
+Java                     6 hrs 28 mins       ████████████░░░░░░░░░░░░░   48.32 % 
+Blade Template           3 hrs 29 mins       ███████░░░░░░░░░░░░░░░░░░   26.07 % 
+PHP                      1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
+HTML                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
+Todotxt                  35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
 
 🔥 Editor: 
-NetBeans                 6 hrs 52 mins       ██████████████░░░░░░░░░░░   57.90 % 
-VS Code                  5 hrs               ███████████░░░░░░░░░░░░░░   42.10 % 
+NetBeans                 6 hrs 52 mins       █████████████░░░░░░░░░░░░   51.34 % 
+VS Code                  6 hrs 31 mins       ████████████░░░░░░░░░░░░░   48.66 % 
 
 💻 Sistem Operasi: 
-Windows                  11 hrs 53 mins      █████████████████████████   100.00 % 
+Windows                  13 hrs 24 mins      █████████████████████████   100.00 % 
 ```
 
 **Kebanyakan menulis dalam bahasa PHP** 
@@ -84,5 +84,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/10/2025 00:47:25 UTC
+ Last Updated on 06/10/2025 00:44:13 UTC
 <!--END_SECTION:waka-->
