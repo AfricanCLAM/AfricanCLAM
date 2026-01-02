@@ -16,11 +16,11 @@
 
 ![Profile Views](http://img.shields.io/badge/Profil%20dilihat-0-blue)
 
-![Lines of code](https://img.shields.io/badge/Sejak%20Hello%20World%20aku%20telah%20menulis-2.0%20million%20baris%20kode-blue)
+![Lines of code](https://img.shields.io/badge/Sejak%20Hello%20World%20aku%20telah%20menulis-2.01%20million%20baris%20kode-blue)
 
 **🐱 Dataku di GitHub** 
 
-> 📦 159.0 kB Digunakan di GitHub Storage 
+> 📦 159.1 kB Digunakan di GitHub Storage 
  > 
 > 🏆 0 Kontribusi pada 2026
  > 
@@ -79,5 +79,5 @@ C++                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 01/01/2026 00:57:45 UTC
+ Last Updated on 02/01/2026 00:52:28 UTC
 <!--END_SECTION:waka-->
