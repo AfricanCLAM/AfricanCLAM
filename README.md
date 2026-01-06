@@ -12,15 +12,17 @@
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profil%20dilihat-1-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-695%20hrs%201%20min-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/Sejak%20Hello%20World%20aku%20telah%20menulis-2.01%20million%20baris%20kode-blue)
+![Profile Views](http://img.shields.io/badge/Profil%20dilihat-1-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/Sejak%20Hello%20World%20aku%20telah%20menulis-2.01%20million%20baris%20kode-blue?style=flat)
 
 **🐱 Dataku di GitHub** 
 
 > 📦 159.1 kB Digunakan di GitHub Storage 
  > 
-> 🏆 0 Kontribusi pada 2026
+> 🏆 1 Kontribusi pada 2026
  > 
 > 🚫 Tidak sedang bisa dipekerjakan
  > 
@@ -28,6 +30,47 @@
  > 
 > 🔑 32 Repositori pribadi 
  > 
+**Aku orangnya diurnal 🐤** 
+
+```text
+🌞 Pagi                   247 commits         ████████░░░░░░░░░░░░░░░░░   33.07 % 
+🌆 Siang                  207 commits         ███████░░░░░░░░░░░░░░░░░░   27.71 % 
+🌃 Petang                 279 commits         █████████░░░░░░░░░░░░░░░░   37.35 % 
+🌙 Malam                  14 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
+```
+📅 **Paling produktif saat Selasa** 
+
+```text
+Senin                    121 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
+Selasa                   138 commits         █████░░░░░░░░░░░░░░░░░░░░   18.47 % 
+Rabu                     65 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+Kamis                    77 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
+Jumat                    96 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
+Sabtu                    120 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
+Minggu                   130 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.40 % 
+```
+
+
+📊 **Minggu ini menghabiskan waktu di** 
+
+```text
+🕑︎ Zona waktu: Asia/Jakarta
+
+💬 Bahasa: 
+Blade Template           1 hr 2 mins         ████████████████░░░░░░░░░   63.52 % 
+Todotxt                  22 mins             ██████░░░░░░░░░░░░░░░░░░░   23.09 % 
+jsonc                    11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+
+🔥 Editor: 
+VS Code                  1 hr 25 mins        ██████████████████████░░░   87.12 % 
+Unknown Editor           12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
+
+💻 Sistem Operasi: 
+Windows                  1 hr 38 mins        █████████████████████████   100.00 % 
+```
+
 **Kebanyakan menulis dalam bahasa PHP** 
 
 ```text
@@ -41,5 +84,5 @@ C++                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 04/01/2026 00:57:52 UTC
+ Last Updated on 06/01/2026 00:52:25 UTC
 <!--END_SECTION:waka-->
