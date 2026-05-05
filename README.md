@@ -57,13 +57,15 @@ Minggu                   131 commits         ████░░░░░░░�
 🕑︎ Zona waktu: Asia/Jakarta
 
 💬 Bahasa: 
-Tidak ada aktivitas dilacak minggu Ini
+TypeScript               49 mins             ██████████████████████░░░   89.79 % 
+CSS                      5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 
 🔥 Editor: 
-Tidak ada aktivitas dilacak minggu Ini
+VS Code                  54 mins             █████████████████████████   100.00 % 
 
 💻 Sistem Operasi: 
-Tidak ada aktivitas dilacak minggu Ini
+Windows                  54 mins             █████████████████████████   100.00 % 
 ```
 
 **Kebanyakan menulis dalam bahasa PHP** 
@@ -79,5 +81,5 @@ CSS                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 04/05/2026 01:29:43 UTC
+ Last Updated on 05/05/2026 01:29:48 UTC
 <!--END_SECTION:waka-->
