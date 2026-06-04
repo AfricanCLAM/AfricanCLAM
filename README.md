@@ -16,72 +16,32 @@
 
 ![Profile Views](http://img.shields.io/badge/Profil%20dilihat-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/Sejak%20Hello%20World%20aku%20telah%20menulis-2.10%20million%20baris%20kode-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/Sejak%20Hello%20World%20aku%20telah%20menulis-2.09%20million%20baris%20kode-blue?style=flat)
 
 **🐱 Dataku di GitHub** 
 
-> 📦 170.3 kB Digunakan di GitHub Storage 
+> 📦 169.1 kB Digunakan di GitHub Storage 
  > 
-> 🏆 15 Kontribusi pada 2026
+> 🏆 26 Kontribusi pada 2026
  > 
 > 🚫 Tidak sedang bisa dipekerjakan
  > 
 > 📜 19 Repositori publik 
  > 
-> 🔑 36 Repositori pribadi 
+> 🔑 33 Repositori pribadi 
  > 
-**Aku orangnya diurnal 🐤** 
-
-```text
-🌞 Pagi                   260 commits         ████████░░░░░░░░░░░░░░░░░   32.58 % 
-🌆 Siang                  212 commits         ███████░░░░░░░░░░░░░░░░░░   26.57 % 
-🌃 Petang                 312 commits         ██████████░░░░░░░░░░░░░░░   39.10 % 
-🌙 Malam                  14 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
-```
-📅 **Paling produktif saat Selasa** 
-
-```text
-Senin                    126 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
-Selasa                   146 commits         █████░░░░░░░░░░░░░░░░░░░░   18.30 % 
-Rabu                     73 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
-Kamis                    83 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
-Jumat                    109 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
-Sabtu                    127 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
-Minggu                   134 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.79 % 
-```
-
-
-📊 **Minggu ini menghabiskan waktu di** 
-
-```text
-🕑︎ Zona waktu: Asia/Jakarta
-
-💬 Bahasa: 
-TypeScript               1 hr 5 mins         ████████████░░░░░░░░░░░░░   46.64 % 
-Other                    49 mins             █████████░░░░░░░░░░░░░░░░   35.08 % 
-Markdown                 18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
-JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
-CSS                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
-
-🔥 Editor: 
-VS Code                  2 hrs 21 mins       █████████████████████████   100.00 % 
-
-💻 Sistem Operasi: 
-Windows                  2 hrs 21 mins       █████████████████████████   100.00 % 
-```
-
 **Kebanyakan menulis dalam bahasa PHP** 
 
 ```text
-PHP                      17 repos            ████████░░░░░░░░░░░░░░░░░   30.91 % 
-HTML                     10 repos            █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-Java                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
-TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
-Blade                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+PHP                      17 repos            ████████░░░░░░░░░░░░░░░░░   31.48 % 
+HTML                     10 repos            █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
+Java                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+Blade                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+TypeScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
 ```
 
 
 
 
- Last Updated on 03/06/2026 02:33:43 UTC
+ Last Updated on 04/06/2026 02:30:11 UTC
 <!--END_SECTION:waka-->
