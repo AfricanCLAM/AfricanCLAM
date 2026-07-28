@@ -12,7 +12,9 @@
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-768%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-761%20hrs%2016%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-53%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profil%20dilihat-0-blue?style=flat)
 
@@ -66,6 +68,12 @@ Tidak ada aktivitas dilacak minggu Ini
 Tidak ada aktivitas dilacak minggu Ini
 ```
 
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **Kebanyakan menulis dalam bahasa PHP** 
 
 ```text
@@ -79,5 +87,5 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 26/07/2026 01:27:11 UTC
+ Last Updated on 28/07/2026 01:19:28 UTC
 <!--END_SECTION:waka-->
